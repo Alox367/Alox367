@@ -1,4 +1,5 @@
-
+Alessio Virgillito
+Currently studying Computer Science at UNICT | 2nd year
 
 <!---
 Alox367/Alox367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
