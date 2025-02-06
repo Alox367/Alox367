@@ -1,4 +1,3 @@
-Alessio Virgillito
 Currently studying Computer Science at UNICT | 2nd year
 
 <!---
