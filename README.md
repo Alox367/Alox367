@@ -1,6 +1,9 @@
-Currently studying Computer Science at UNICT | 2nd year
+Currently studying Computer Science at DMI-Università degli Studi di Catania | 3nd year
 
-1 private repo, working on a dbms project
+1 private repo, working on a dbms project [done]
+various paper, project, works
+
+
 
 <!---
 Alox367/Alox367 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
