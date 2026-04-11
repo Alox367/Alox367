@@ -1,7 +1,4 @@
-Currently studying Computer Science at DMI-Università degli Studi di Catania | 3nd year
-
-1 private repo, working on a dbms project [done]
-various paper, project, works
+Undergraduated Student in Computer Science at DMI- Università degli Studi di Catania | 3nd year
 
 
 
